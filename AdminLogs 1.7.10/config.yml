@@ -1,0 +1,23 @@
+#==========================================================#
+# +-=-=-=-=-=-=-=-=-=-=-=--------=-=-=-=-=-=-=-=-=-=-=-=-+ #
+# |                       Welcome                        | #
+# +-=-=-=-=-=-=-=-=-=-=-=--------=-=-=-=-=-=-=-=-=-=-=-=-+ #
+#==========================================================#
+#                        Hello!
+# Thank you for using my plugin.
+#
+# Please support my work:
+#  - https://www.patreon.com/InfinitesGaming
+#
+# Also check out my YT Channel:
+#  - https://www.youtube.com/channel/UCPWRuNW2ZZpHI2qjDaafzPA?view_as=subscriber
+#
+# This plugin is also under the GNU General Public License. See the link below  for more information.
+# http://www.gnu.org/licenses/gpl.html#header
+#==========================================================#
+# +-=-=-=-=-=-=-=-=-=-=-=------=-=-=-=-=-=-=-=-=-=-=-=-=-+ #
+# |                      Config                          | #
+# +-=-=-=-=-=-=-=-=-=-=-=------=-=-=-=-=-=-=-=-=-=-=-=-=-+ #
+#==========================================================#
+#
+NotifyOwner: true

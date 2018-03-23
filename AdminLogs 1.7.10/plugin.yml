@@ -1,0 +1,19 @@
+name: AdminLogs
+version: 1.0
+author: InfiniteOne
+main: com.InfiniteOne.AdminLogs.AdminLogs
+commands:
+  al:
+    usage: /al
+  adminlogs:
+    usage: /adminlogs
+permissions:
+  adminlogs.help:
+    default: op
+  adminlogs.toggle:
+    default: op
+  adminlogs.*:
+    default: op
+    children:
+      adminlogs.help: true
+      adminlogs.toggle: true
